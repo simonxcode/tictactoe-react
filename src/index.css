@@ -12,3 +12,52 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.square {
+  width: 4rem;
+  height: 4rem;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;    
+  font-size: 50px;
+  color: lightslategray
+}
+
+.square:focus {
+  outline: none;
+}
+
+table {
+	margin: auto;
+}
+
+td {
+	width: 100px;
+  height: 100px;
+}
+
+td:hover {
+  background-color: lightgray
+}
+
+.vertical {
+	border-left: 5px solid lightskyblue;
+	border-right: 5px solid lightskyblue;
+}
+
+.horizontal {
+	border-top: 5px solid lightskyblue;
+	border-bottom: 5px solid lightskyblue;
+}
+
+.game-info {
+  margin-top: .5rem;
+  color: #404040;
+}
+
+
+
+
+

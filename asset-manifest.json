@@ -1,14 +1,13 @@
 {
-  "main.css": "/tictactoe-react/static/css/main.fb5d9969.chunk.css",
-  "main.js": "/tictactoe-react/static/js/main.a036ffc5.chunk.js",
-  "main.js.map": "/tictactoe-react/static/js/main.a036ffc5.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "/tictactoe-react/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "/tictactoe-react/static/js/1.82dafdb5.chunk.js.map",
+  "main.css": "/tictactoe-react/static/css/main.b2821e68.chunk.css",
+  "main.js": "/tictactoe-react/static/js/main.a05ae40c.chunk.js",
+  "main.js.map": "/tictactoe-react/static/js/main.a05ae40c.chunk.js.map",
+  "static/js/1.84eb3e73.chunk.js": "/tictactoe-react/static/js/1.84eb3e73.chunk.js",
+  "static/js/1.84eb3e73.chunk.js.map": "/tictactoe-react/static/js/1.84eb3e73.chunk.js.map",
   "runtime~main.js": "/tictactoe-react/static/js/runtime~main.fe3c2865.js",
   "runtime~main.js.map": "/tictactoe-react/static/js/runtime~main.fe3c2865.js.map",
-  "static/media/logo.svg": "/tictactoe-react/static/media/logo.5d5d9eef.svg",
-  "static/css/main.fb5d9969.chunk.css.map": "/tictactoe-react/static/css/main.fb5d9969.chunk.css.map",
+  "static/css/main.b2821e68.chunk.css.map": "/tictactoe-react/static/css/main.b2821e68.chunk.css.map",
   "index.html": "/tictactoe-react/index.html",
-  "precache-manifest.0de4cbf97aa0895f5892926e9ebfc949.js": "/tictactoe-react/precache-manifest.0de4cbf97aa0895f5892926e9ebfc949.js",
+  "precache-manifest.e67d823e90b3ec991ee9c1c1c163ec43.js": "/tictactoe-react/precache-manifest.e67d823e90b3ec991ee9c1c1c163ec43.js",
   "service-worker.js": "/tictactoe-react/service-worker.js"
 }
